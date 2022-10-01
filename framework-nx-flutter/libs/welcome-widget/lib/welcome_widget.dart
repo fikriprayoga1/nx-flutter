@@ -1,7 +1,3 @@
 library welcome_widget;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'welcome_widget_card.dart';

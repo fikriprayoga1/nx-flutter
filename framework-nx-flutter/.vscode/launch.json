@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Flutter First - Chrome",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "chrome",
+        "flutterMode": "debug",
+        "program": "apps/flutter-first/lib/main.dart"
+      },
+      {
+        "name": "Flutter Second - Chrome",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "chrome",
+        "flutterMode": "debug",
+        "program": "apps/flutter-second/lib/main.dart"
+      }
+    ]
+  }
